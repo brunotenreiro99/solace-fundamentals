@@ -1,0 +1,13 @@
+{
+  "name": "web-app-server",
+  "version": "1.0.0",
+  "description": "This project use Spring-Boot to start up a WebServer and contains a web app for chat.",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
